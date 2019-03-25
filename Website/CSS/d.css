@@ -1,0 +1,14 @@
+#page { width: 960px; }
+
+#header .slogan {
+    background: transparent url("../img/logo_bg.png") no-repeat 0 100%;
+	color: #fff;
+	font-size: 0.8125rem;
+	height: 28px;
+	left: -39px;
+	padding-left: 50px;
+	padding-top: 3px;
+	position: absolute;
+	top: 85px;	
+	width: 946px;
+}
